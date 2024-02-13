@@ -1,0 +1,3 @@
+[submodule "TestREST"]
+	path = TestREST
+	url = https://github.com/karanagai/TestREST.git
